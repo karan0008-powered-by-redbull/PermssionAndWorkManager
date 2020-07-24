@@ -1,0 +1,99 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="zero_dp">0dp</dimen>
+
+    <dimen name="fourteen_sp">14sp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="twelveSp">12sp</dimen>
+
+    <dimen name="thirtydp">30dip</dimen>
+    <dimen name="three_dp">3dip</dimen>
+    <dimen name="forty_five">45dip</dimen>
+
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">120dp</dimen>
+
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="margin_large">10dp</dimen>
+    <dimen name="margin_xlarge">30dp</dimen>
+
+    <dimen name="buy_button_width">300dp</dimen>
+    <dimen name="buy_button_height">48sp</dimen>
+    <dimen name="buy_button_min_width">200dp</dimen>
+    <dimen name="PlayerSize">220dp</dimen>
+
+    <!-- Carried out from EZBitex -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="half_dp">0.5dip</dimen>
+    <dimen name="one_dp">1dip</dimen>
+    <dimen name="two_dp">2dip</dimen>
+    <dimen name="four_dp">4dip</dimen>
+    <dimen name="five_dp">5dip</dimen>
+    <dimen name="six_dp">6dip</dimen>
+    <dimen name="seven_dp">7dip</dimen>
+    <dimen name="eight_dp">8dip</dimen>
+    <dimen name="nine_dp">9dip</dimen>
+    <dimen name="ten_dp">10dip</dimen>
+    <dimen name="twelve_dp">12dip</dimen>
+    <dimen name="fourteen_dp">14dip</dimen>
+    <dimen name="fifteen_dp">15dip</dimen>
+    <dimen name="sixteen_dp">16dip</dimen>
+    <dimen name="eighteen_dp">18dip</dimen>
+    <dimen name="twenty_dp">20dip</dimen>
+    <dimen name="twentytwo_dp">22dip</dimen>
+    <dimen name="twentyfour_dp">24dip</dimen>
+    <dimen name="twentysix_dp">26dip</dimen>
+    <dimen name="twentyeight_dp">28dip</dimen>
+    <dimen name="thirty_dp">30dip</dimen>
+    <dimen name="thirtytwo_dp">32dip</dimen>
+    <dimen name="thirtyfour_dp">34dip</dimen>
+    <dimen name="thirtysix_dp">36dip</dimen>
+    <dimen name="thirtyeight_dp">38dip</dimen>
+    <dimen name="forty_dp">40dip</dimen>
+    <dimen name="fortyeight_dp">48dip</dimen>
+    <dimen name="forty_five_dp">45dip</dimen>
+    <dimen name="fifty_dp">50dip</dimen>
+    <dimen name="sixty_dp">60dip</dimen>
+    <dimen name="seventy_dp">70dip</dimen>
+    <dimen name="eighty_dp">80dip</dimen>
+    <dimen name="eightyfive_dp">85dip</dimen>
+    <dimen name="ninety_dp">90dip</dimen>
+    <dimen name="hundred_dp">100dip</dimen>
+    <dimen name="onetwenty_dp">120dip</dimen>
+    <dimen name="onefifty_dp">150dip</dimen>
+    <dimen name="two_hundred_dp">200dip</dimen>
+    <dimen name="twotwenty_dp">220dip</dimen>
+    <dimen name="twofifty_dp">250dip</dimen>
+    <dimen name="threehundred_dp">300dip</dimen>
+    <dimen name="threefifty_dp">350dip</dimen>
+    <dimen name="hundredeight_dp">108dip</dimen>
+
+
+    <dimen name="tablet_button_background_height">88dip</dimen>
+    <dimen name="tablet_button_background_width">158dip</dimen>
+
+    <dimen name="tablet_button_height">70dip</dimen>
+    <dimen name="tablet_button_width">140dip</dimen>
+
+
+    <dimen name="textsize_ten">10sp</dimen>
+    <dimen name="textsize_eleven">11sp</dimen>
+    <dimen name="textsize_twelve">12sp</dimen>
+    <dimen name="textsize_thirteen">13sp</dimen>
+    <dimen name="textsize_fourteen">14sp</dimen>
+    <dimen name="textsize_fifteen">15sp</dimen>
+    <dimen name="textsize_sixteen">16sp</dimen>
+    <dimen name="textsize_eighteen">18sp</dimen>
+    <dimen name="textsize_twenty">20sp</dimen>
+    <dimen name="textsize_twentytwo">22sp</dimen>
+    <dimen name="textsize_twentyfour">24sp</dimen>
+    <dimen name="textsize_twentysix">26sp</dimen>
+    <dimen name="textsize_twentyeight">28sp</dimen>
+    <dimen name="textsize_thirty">30sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+</resources>

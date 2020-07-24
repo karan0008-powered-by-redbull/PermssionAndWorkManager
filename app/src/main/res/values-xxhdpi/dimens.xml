@@ -1,0 +1,60 @@
+<resources>
+    <dimen name="one_dp_responsive">3dip</dimen>
+    <dimen name="two_dp_responsive">6dip</dimen>
+    <dimen name="four_dp_responsive">12dip</dimen>
+    <dimen name="five_dp_responsive">15dip</dimen>
+    <dimen name="six_dp_responsive">18dip</dimen>
+    <dimen name="seven_dp_responsive">21dip</dimen>
+
+
+    <dimen name="eight_dp_responsive">24dip</dimen>
+
+    <dimen name="nine_dp_responsive">27dip</dimen>
+    <dimen name="ten_dp_responsive">30dip</dimen>
+    <dimen name="twelve_dp_responsive">36dip</dimen>
+    <dimen name="fourteen_dp_responsive">42dip</dimen>
+    <dimen name="fifteen_dp_responsive">45dip</dimen>
+    <dimen name="sixteen_dp_responsive">48dip</dimen>
+    <dimen name="eighteen_dp_responsive">54dip</dimen>
+    <dimen name="twenty_dp_responsive">60dip</dimen>
+
+    <dimen name="twentytwo_dp_responsive">66dip</dimen>
+
+    <dimen name="twentyfour_dp_responsive">72dip</dimen>
+    <dimen name="twentysix_dp_responsive">78dip</dimen>
+    <dimen name="twentyeight_dp_responsive">84dip</dimen>
+    <dimen name="thirty_dp_responsive">90dip</dimen>
+    <dimen name="thirtytwo_dp_responsive">96dip</dimen>
+    <dimen name="thirtyfour_dp_responsive">102dip</dimen>
+    <dimen name="thirtysix_dp_responsive">108dip</dimen>
+    <dimen name="thirtyeight_dp_responsive">114dip</dimen>
+    <dimen name="forty_dp_responsive">120dip</dimen>
+    <dimen name="forty_five_dp_responsive">135dip</dimen>
+    <dimen name="fifty_dp_responsive">150dip</dimen>
+
+    <dimen name="profile_scrollview_height">120dip</dimen>
+
+    <dimen name="deposit_scrollview_height">130dip</dimen>
+
+    <dimen name="kyc_scrollview_height">195dip</dimen>
+    <dimen name="buy_sell_btn_responsive">44dip</dimen>
+    <dimen name="buy_sell_shadow_responsive">56dip</dimen>
+
+    <dimen name="textsize_two_responsive">6sp</dimen>
+    <dimen name="textsize_three_responsive">9sp</dimen>
+    <dimen name="textsize_four_responsive">12sp</dimen>
+    <dimen name="textsize_five_responsive">15sp</dimen>
+    <dimen name="textsize_six_responsive">18sp</dimen>
+    <dimen name="textsize_seven_responsive">21sp</dimen>
+    <dimen name="textsize_eight_responsive">24sp</dimen>
+    <dimen name="textsize_nine_responsive">27sp</dimen>
+
+    <dimen name="textsize_ten_responsive">30sp</dimen>
+    <dimen name="textsize_twelve_responsive">36sp</dimen>
+    <dimen name="textsize_fourteen_responsive">42sp</dimen>
+    <dimen name="textsize_fifteen_responsive">45sp</dimen>
+    <dimen name="textsize_sixteen_responsive">48sp</dimen>
+    <dimen name="textsize_eighteen_responsive">54sp</dimen>
+    <dimen name="textsize_twenty_responsive">60sp</dimen>
+
+</resources>

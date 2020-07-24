@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Permissions and Work Manager App</string>
+    <string name="facebook_app_id">584392115452220</string>
+    <string name="fb_login_protocol_scheme">fb584392115452220</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="inbox">Inbox</string>
+    <string name="search">Search</string>
+    <string name="permission_and_work_manager_app">Permission and Work Manager App</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="get_location">Get Location</string>
+    <string name="set_permission_storage_in_settings">
+        Go to Settings -> Apps and Notifications -> WorkManager -> App Permissions
+        and grant access to Storage.
+    </string>
+    <string name="set_permission_location_in_settings">
+        Go to Settings -> Apps and Notifications -> WorkManager -> App Permissions
+        and grant access to Location.
+    </string>
+
+
+</resources>
